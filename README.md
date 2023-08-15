@@ -28,6 +28,9 @@ A vehicle's license plate consists of a 7-digit number. The fourth and fifth dig
 - Fire Brigade (F)
 - Emergency (E)
 
+- ![image](https://github.com/aghdasim/Vehicle-Circulation-Authorization-Checker/assets/142214534/4e712b8b-0f52-49e5-a0e8-3e1ebecdca06)
+
+
 ## Example
 
 An example of a license plate structure:
